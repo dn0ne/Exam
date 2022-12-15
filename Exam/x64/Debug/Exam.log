@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\University\IT\Exam\Exam\main.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Exam.vcxproj -> D:\University\IT\Exam\Exam\x64\Debug\Exam.exe
